@@ -1,0 +1,27 @@
+{
+    "elements":[
+        { "type": "red", "x": 0, "y": 0 },
+        { "type": "blue" , "x": 150, "y": 0},
+        { "type": "green", "x": 300, "y": 0 },
+        { "type": "green", "x": 450, "y": 0 },
+        { "type": "green", "x": 0, "y": 60 },
+        { "type": "green", "x": 150, "y": 60 },
+        { "type": "green", "x": 300, "y": 60 },
+        { "type": "green", "x": 450, "y": 60 },
+        { "type": "green", "x": 0, "y": 120 },
+        { "type": "green", "x": 150, "y": 120 },
+        { "type": "green", "x": 300, "y": 120 },
+        { "type": "green", "x": 450, "y": 120 }
+    ],
+    
+    "properties":{
+        "speed":4,
+        "gravity":0.5,
+        "jumpSpeed":15,
+        "barrierWidth":500,
+        "maxMileage":5000,
+        "flatSpeed": 8,
+        "angle": 60,
+        "rotation": 4
+    }
+}

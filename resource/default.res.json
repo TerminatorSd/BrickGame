@@ -1,0 +1,240 @@
+{
+	"groups": [
+		{
+			"keys": "checkbox_select_disabled_png,checkbox_select_down_png,checkbox_select_up_png,checkbox_unselect_png,selected_png,border_png,header_png,radiobutton_select_disabled_png,radiobutton_select_down_png,radiobutton_select_up_png,radiobutton_unselect_png,roundthumb_png,thumb_png,track_png,tracklight_png,handle_png,off_png,on_png,button_down_png,button_up_png,thumb_pb_png,track_pb_png,track_sb_png,bg_jpg,egret_icon_png,description_json,superman_jpg,sandman_jpg,batman_jpg,captain_jpg,music_mp3,about_png,start_png,brick_png,btn_start_png,ball_png,board_png,bg_game_png,hand_png,jump_png,death_png,config_json,brick_mp3,board_mp3,board_1_mp3,board_2_mp3",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/CheckBox/checkbox_select_disabled.png",
+			"type": "image",
+			"name": "checkbox_select_disabled_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_select_down.png",
+			"type": "image",
+			"name": "checkbox_select_down_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_select_up.png",
+			"type": "image",
+			"name": "checkbox_select_up_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_unselect.png",
+			"type": "image",
+			"name": "checkbox_unselect_png"
+		},
+		{
+			"url": "assets/ItemRenderer/selected.png",
+			"type": "image",
+			"name": "selected_png"
+		},
+		{
+			"url": "assets/Panel/border.png",
+			"type": "image",
+			"name": "border_png"
+		},
+		{
+			"url": "assets/Panel/header.png",
+			"type": "image",
+			"name": "header_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_disabled.png",
+			"type": "image",
+			"name": "radiobutton_select_disabled_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_down.png",
+			"type": "image",
+			"name": "radiobutton_select_down_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_up.png",
+			"type": "image",
+			"name": "radiobutton_select_up_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_unselect.png",
+			"type": "image",
+			"name": "radiobutton_unselect_png"
+		},
+		{
+			"url": "assets/ScrollBar/roundthumb.png",
+			"type": "image",
+			"name": "roundthumb_png"
+		},
+		{
+			"url": "assets/Slider/thumb.png",
+			"type": "image",
+			"name": "thumb_png"
+		},
+		{
+			"url": "assets/Slider/track.png",
+			"type": "image",
+			"name": "track_png"
+		},
+		{
+			"url": "assets/Slider/tracklight.png",
+			"type": "image",
+			"name": "tracklight_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/handle.png",
+			"type": "image",
+			"name": "handle_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/off.png",
+			"type": "image",
+			"name": "off_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/on.png",
+			"type": "image",
+			"name": "on_png"
+		},
+		{
+			"url": "assets/Button/button_down.png",
+			"type": "image",
+			"name": "button_down_png"
+		},
+		{
+			"url": "assets/Button/button_up.png",
+			"type": "image",
+			"name": "button_up_png"
+		},
+		{
+			"url": "assets/ProgressBar/thumb_pb.png",
+			"type": "image",
+			"name": "thumb_pb_png"
+		},
+		{
+			"url": "assets/ProgressBar/track_pb.png",
+			"type": "image",
+			"name": "track_pb_png"
+		},
+		{
+			"url": "assets/ScrollBar/track_sb.png",
+			"type": "image",
+			"name": "track_sb_png"
+		},
+		{
+			"url": "assets/bg.jpg",
+			"type": "image",
+			"name": "bg_jpg"
+		},
+		{
+			"url": "assets/egret_icon.png",
+			"type": "image",
+			"name": "egret_icon_png"
+		},
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "assets/Hero/superman.jpg",
+			"type": "image",
+			"name": "superman_jpg"
+		},
+		{
+			"url": "assets/Hero/sandman.jpg",
+			"type": "image",
+			"name": "sandman_jpg"
+		},
+		{
+			"url": "assets/Hero/batman.jpg",
+			"type": "image",
+			"name": "batman_jpg"
+		},
+		{
+			"url": "assets/Hero/captain.jpg",
+			"type": "image",
+			"name": "captain_jpg"
+		},
+		{
+			"url": "assets/music.mp3",
+			"type": "sound",
+			"name": "music_mp3"
+		},
+		{
+			"name": "about_png",
+			"type": "image",
+			"url": "assets/Others/about.png"
+		},
+		{
+			"name": "start_png",
+			"type": "image",
+			"url": "assets/Others/start.png"
+		},
+		{
+			"name": "brick_png",
+			"type": "image",
+			"url": "assets/Others/brick.png"
+		},
+		{
+			"name": "btn_start_png",
+			"type": "image",
+			"url": "assets/Others/btn_start.png"
+		},
+		{
+			"name": "ball_png",
+			"type": "image",
+			"url": "assets/Others/ball.png"
+		},
+		{
+			"name": "board_png",
+			"type": "image",
+			"url": "assets/Others/board.png"
+		},
+		{
+			"name": "bg_game_png",
+			"type": "image",
+			"url": "assets/Others/bg_game.png"
+		},
+		{
+			"name": "hand_png",
+			"type": "image",
+			"url": "assets/Others/hand.png"
+		},
+		{
+			"name": "jump_png",
+			"type": "image",
+			"url": "assets/Others/jump.png"
+		},
+		{
+			"name": "death_png",
+			"type": "image",
+			"url": "assets/Others/death.png"
+		},
+		{
+			"name": "config_json",
+			"type": "json",
+			"url": "assets/Others/config.json"
+		},
+		{
+			"name": "brick_mp3",
+			"type": "sound",
+			"url": "assets/brick.mp3"
+		},
+		{
+			"name": "board_mp3",
+			"type": "sound",
+			"url": "assets/board.mp3"
+		},
+		{
+			"name": "board_1_mp3",
+			"type": "sound",
+			"url": "assets/board_1.mp3"
+		},
+		{
+			"name": "board_2_mp3",
+			"type": "sound",
+			"url": "assets/board_2.mp3"
+		}
+	]
+}
