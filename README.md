@@ -1,5 +1,5 @@
 # BrickGame
-Egret 小游戏 打砖块 5.1.10 引擎
+Egret小游戏 打砖块 5.1.10 引擎
 
 #### 使用方法
 - 下载Egret Launcher 和 Egret Wing
