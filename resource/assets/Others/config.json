@@ -20,7 +20,7 @@
         "jumpSpeed":15,
         "barrierWidth":500,
         "maxMileage":5000,
-        "flatSpeed": 8,
+        "flatSpeed": 10,
         "angle": 60,
         "rotation": 4
     }
