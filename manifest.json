@@ -11,20 +11,20 @@
 	],
 	"game": [
 		"bin-debug/gameObject/GameObject.js",
-		"bin-debug/game/OverScene.js",
+		"bin-debug/AssetAdapter.js",
 		"bin-debug/main_back.js",
 		"bin-debug/Main.js",
 		"bin-debug/Platform.js",
 		"bin-debug/ThemeAdapter.js",
 		"bin-debug/common/GameUtil.js",
 		"bin-debug/game/GameScene.js",
-		"bin-debug/AssetAdapter.js",
+		"bin-debug/LoadingUI.js",
 		"bin-debug/game/SceneController.js",
 		"bin-debug/game/StartScene.js",
 		"bin-debug/gameData/GameData.js",
 		"bin-debug/gameObject/Ball.js",
 		"bin-debug/gameObject/Board.js",
 		"bin-debug/gameObject/Brick.js",
-		"bin-debug/LoadingUI.js"
+		"bin-debug/game/OverScene.js"
 	]
 }

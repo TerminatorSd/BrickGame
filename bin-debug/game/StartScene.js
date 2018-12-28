@@ -24,6 +24,8 @@ var StartScene = (function (_super) {
         //开始游戏的按钮
         var startBtn = GameUtil.createBitmapByName("btn_start_png");
         this.addChild(startBtn);
+        startBtn.width = 200;
+        startBtn.height = 80;
         startBtn.x = (this.stage.stageWidth - startBtn.width) / 2;
         startBtn.y = 40;
         startBtn.touchEnabled = true;
